@@ -1,39 +1,22 @@
-## Welcome to GitHub Pages
+# My Projects
 
-You can use the [editor on GitHub](https://github.com/aidenchiavatti/aidenchiavatti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidenchiavatti/aidenchiavatti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### CEO Vestor
+## CEO Vestor
 
 A website website that allows you enter in a CEO's Twitter handle, name, or company and perform a tone assessment based on their recent tweets to see their mood/personality traits and evaluate how they could affect the stock of the company.
 
 ![useful image]({{ site.url }}/ceovestor.jpg)
+
+
+## Pebble Activity Watch App (PACT)
+
+A smartwatch app that provides the user with the optimal times to perform various types of activities, given a users schedule and future weather conditions. It allows the user to verbally request the best time to do an activity. This request is processed by the server, which returns a list of optimal times to be displayed by the watch.
+
+![useful image]({{ site.url }}/pact.jpg)
+
+
+## ATM.go
+
+
+An Android app that provides customers with the ability to preemptively input withdrawals and deposits from the comfort of their home or on the go. Upon reaching the bank they will simply need to input a code provided through the app and use the facial recognition feature to verify their identity and the ATM will have already processed and prepared their withdrawal or deposit. Furthermore, we utilized the location services provided through the API to alert customers about the location of the nearest bank/ATM.
+
+![useful image]({{ site.url }}/atmgo.jpg)
