@@ -32,6 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidenchiavatti/aidenchiavatti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### CEO Vestor
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A website website that allows you enter in a CEO's Twitter handle, name, or company and perform a tone assessment based on their recent tweets to see their mood/personality traits and evaluate how they could affect the stock of the company.
+
+![useful image]({{ site.url }}/ceovestor.jpg)
